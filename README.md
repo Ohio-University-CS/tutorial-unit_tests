@@ -64,6 +64,7 @@ Handles divide-by-zero errors gracefully.
 ```bash
 cd python-unit-test
 uv sync
+source .venv/bin/activate
 ```
 ```bash
 pytest -v
