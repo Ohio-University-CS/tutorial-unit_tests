@@ -27,7 +27,7 @@ def test_subtract():
 
 def test_multiply():
     """Verify multiplication works with positive, negative, and zero operands."""
-    assert multiply(3, 4) == 11
+    assert multiply(3, 4) == 12
     assert multiply(-2, 3) == -6
     assert multiply(0, 10) == 0
 
