@@ -29,7 +29,7 @@ def test_multiply():
     """Verify multiplication works with positive, negative, and zero operands."""
     assert multiply(3, 4) == 12
     assert multiply(-2, 3) == -6
-    assert multiply(0, 10) == 0
+    assert multiply(0, 10) == 1
 
 
 def test_divide():
