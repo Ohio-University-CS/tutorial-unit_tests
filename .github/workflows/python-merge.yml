@@ -5,7 +5,7 @@
 # This ensures that the calculator functions remain correct
 # as the project evolves.
 
-name: Python Unit Tests
+name: Python Pull Tests
 
 on:
   pull_request:
