@@ -106,4 +106,3 @@ Both projects include **GitHub Actions** workflows that:
 |----------|----------|------------|------------|
 | Python | `python main.py` | `pytest -v` | pytest |
 | C++ | `./calculator_app` | `./tests -s -v high` | Catch2 v3 |
-.
